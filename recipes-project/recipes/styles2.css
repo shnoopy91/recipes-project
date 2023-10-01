@@ -1,0 +1,27 @@
+.title {
+    display: flex;
+    justify-content: center;   
+}
+.border1 {
+    display: flex;
+    border-style: solid;
+    border-color: black;
+    background-color: lightsteelblue
+}
+.border1-5 {
+    padding: 20px;
+}
+
+.ingredients {
+    border-style: solid;
+    background: lightsteelblue;
+    margin-top: 15px;
+    padding-left: 10px;
+}
+
+.steps {
+    border-style: solid;
+    margin-top: 15px;
+    background-color: lightsteelblue;
+    padding-left: 10px;
+}

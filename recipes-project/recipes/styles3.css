@@ -1,0 +1,26 @@
+.title {
+    display: flex;
+    justify-content: center;
+}
+
+.border1 {
+    border-style: solid;
+    display: flex;
+    background-color: khaki;
+}
+.border2 {
+    padding-left: 10px;
+}
+
+.ingredients {
+    border-style: solid;
+    background-color: khaki;
+    padding-left: 10px;
+    margin-top: 15px;
+}
+.steps {
+    background-color: khaki;
+    padding-left: 10px;
+    margin-top: 15px;
+    border-style: solid;
+}

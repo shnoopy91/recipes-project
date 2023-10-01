@@ -1,0 +1,27 @@
+.title {
+    display: flex;
+    justify-content: center;
+}
+.burgerpic {
+    border-style: double;
+    border-color: black;
+    display: flex;
+    background-color: burlywood;
+}
+.burgerdescription {
+    padding-left: 10px;
+}
+.ingredients {
+    border-style: double;
+    background-color:burlywood;
+    padding-left: 10px;
+  
+ 
+   
+}
+.steps {
+    border-style: double;
+    background-color: burlywood;
+    margin-top: 15px;
+    padding-left: 10px;
+}

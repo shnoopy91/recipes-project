@@ -1,0 +1,22 @@
+.all-links {
+    border-style: inset;
+    border-color: black;
+    border-width: 10px;
+    background-color: darkred;
+}
+button {
+    background-color: grey;
+
+}
+
+.all-links {
+    display: flex;
+    justify-content: center;
+}
+
+.title {
+ display: flex;
+ justify-content: center;
+    
+}
+
